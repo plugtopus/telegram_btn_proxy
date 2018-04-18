@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Opens a separate window of the web version of Telegram with the proxy already connected for free access."
+   },
+   "name": {
+      "message": "Telegram Button & Proxy"
+   },
+   "shortname": {
+      "message": "Telegram Button"
+   },
+   "title": {
+      "message": "Telegram Button & Proxy"
+   }
+}
