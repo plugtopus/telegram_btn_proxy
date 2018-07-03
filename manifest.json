@@ -8,7 +8,7 @@
       "default_title": "__MSG_title__"
    },
    "description": "__MSG_desc__",
-   "default_locale": "en_US",
+   "default_locale": "ru",
    "icons": {
       "128": "icons/128.png",
       "64": "icons/64.png",
@@ -21,8 +21,5 @@
    "short_name": "__MSG_shortname__",
    "permissions": [ "tabs", "storage", "unlimitedStorage", "\u003Call_urls>", "browsingData", "proxy" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "18.04.2018.3",
-   "web_accessible_resources": [  ],
-   "author": "Plugtopus Agency",
-   "homepage_url": "https://plugtopus.agency"
+   "version": "2018.07.03.3"
 }
